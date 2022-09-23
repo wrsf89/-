@@ -1,3 +1,3 @@
-# Information-Processing
+# 정보처리산업기사 연습
 
-나는 천재야
+파이팅!
