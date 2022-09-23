@@ -1,5 +1,5 @@
 package dto;
-
+//dto
 public class dto {
 
 	private int custno;

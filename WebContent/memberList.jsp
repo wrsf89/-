@@ -59,6 +59,7 @@ table{
 <div class="section">
 <center><p class="pClass">회원목록조회/수정</p></center>
 
+
  <table border="1">
  <tr>
  <th>회원번호</th>

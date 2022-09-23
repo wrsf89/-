@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import dto.dto;
 
 public class dao {
-
+//dao
 PreparedStatement pstmt;
 ResultSet rs;
 Connection con;

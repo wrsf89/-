@@ -120,6 +120,7 @@ function joinChk(){
 		document.join.address.focus();
 		return false;
 	}
+	
 	if(document.join.joindate.value==""){
 		alert("가입일자를 입력해주세요");
 		document.join.joindate.focus();

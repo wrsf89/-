@@ -14,6 +14,7 @@
  font-size: 30px;
  line-height: 120px;
 }
+
 .nav{
  background-color: skyblue;
  height: 60px;
